@@ -1,0 +1,17 @@
+{
+	"name": "Practciebranch_new_pipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "Waitfor10sec",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
