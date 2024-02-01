@@ -6,7 +6,7 @@
 			"sources": [
 				{
 					"dataset": {
-						"referenceName": "DS_BLOB2",
+						"referenceName": "DS_BLOBSA",
 						"type": "DatasetReference"
 					},
 					"name": "Detailsdata"
